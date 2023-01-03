@@ -1,0 +1,8 @@
+Tuple Methods----
+    count(self, value, /)
+       Return number of occurrences of value.
+   
+   index(self, value, start=0, stop=9223372036854775807, /)
+       Return first index of value.
+       
+       Raises ValueError if the value is not present.
